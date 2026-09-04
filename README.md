@@ -1,6 +1,6 @@
 # 📰 Newspaper Website  
 A Basic and responsive web application for publishing and managing news articles.    
-
+Something changes
 This project allows admins can create users, edit, and manage news, while readers can easily browse, search, and share articles. Admin can control all over the website. Users can only access their own posts.  
 ---
 

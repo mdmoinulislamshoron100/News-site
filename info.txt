@@ -1,0 +1,5 @@
+About our technology news paper system
+
+DevOps is a combination of development and operations practices that helps teams build, test, deploy, and maintain software faster and more reliably.
+
+I am currently learning DevOps fundamentals, including Linux, Git, GitHub, Docker, CI/CD, networking, and cloud technologies.
